@@ -45,17 +45,17 @@ Additional materials needed in the ARK:
 * \(1\) 20” x 48” small black table
 * \(1\) black folding stool.
 
-## Immediate Actions \(within first hour\)
+## Setup \(within first hour\)
 
 * Put on the Scribe vest and review the Scribe job description.
 
 * Set up your workstation, assist in placing of Status Boards on ARK wall.
 
-* White boards need to be placed on wall outside of ARK. Maps and other material need to be placed in appropriate locations on wallboards.
+* White boards need to be placed on wall outside of ARK. Maps and other material need to be placed in appropriate locations on wall-boards.
 
 * Track all incident reports and other important information on CERT Status sheet, track what zones are active or completed on large zone map, fill in all information on Status Sheet.
 
-## Continuing Actions
+## Ongoing Actions
 
 * Once set up is complete, continue to monitor all incidents written on tracking status sheet, with all information filled in.
 
@@ -66,6 +66,8 @@ Additional materials needed in the ARK:
 * **Do Not Leave Your Post.** If you need a break, contact Operations Lead for relief.
 
 * **When there is a shift change, turn all Scribe materials over to your replacement AND provide them with any information they will need to successfully perform their duties.**
+
+## Demobilization
 
 * During demobilization, ensure all copies of messages \(incoming & outgoing\) are turned over to the Demobilization team so the documents can be filed in the ARK for documentation purposes and future use by Finance.
 

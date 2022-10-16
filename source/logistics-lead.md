@@ -32,19 +32,21 @@ This material is stored in the Incident Command plastic bin \(ZZZ-Neil: Is this 
 * blank Org Chart
 * clipboard sharpie.
 
-## Immediate Actions \(within first hour\)
+## Setup \(within first hour\)
 
 * Put on the Logistics Lead vest and review the Logistics Lead job description.
 
 * Assist with setting up ARK area.
 
-## Continuing Actions
+## Ongoing Actions
 
 * Organize & monitor Logistics staff.
 
 * Attend IC Staff meetings as called by the Planning Lead.
 
 * Track and account for all resources involving the Incident.
+
+## Demobilization
 
 * **During demobilization, replace vest and supply items in Logistics zip lock bag and turn it in to the Demobilization Team.**
 

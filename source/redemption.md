@@ -31,7 +31,7 @@ This material is stored in the Redemption Area Team zip lock bag:
 
 
 
-## Immediate Actions
+## Setup
 
 * Check out a radio from the Communications team.
 
@@ -53,7 +53,7 @@ This material is stored in the Redemption Area Team zip lock bag:
 
 * Keep a log of material distributed to citizens \(see Form B\).
 
-## Continuing Actions
+## Ongoing Actions
 
 * Keep driveway open for drop off/pick up of material using cones, yellow tape and/or barricades.
 
@@ -70,6 +70,8 @@ This material is stored in the Redemption Area Team zip lock bag:
 * **Refer all inquiries about the incident to the Town EOC PIO.**
 
 * **When there is a shift change, turn all Redemption Team materials over to your replacement AND provide them with any information they will need to successfully perform their duties.**
+
+## Demobilization
 
 * During demobilization, ensure all copies of forms \(items received and items distributed\) are turned over to the Demobilization team so the documents can be filed in the ARK for documentation purposes and future use by Finance.
 

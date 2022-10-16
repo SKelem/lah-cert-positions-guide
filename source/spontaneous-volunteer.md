@@ -17,7 +17,7 @@ See ARK Command Post map
 
 ## Materials Needed
 
-Obtain Spontaneious Volunteer Team Plastic bag from Logistics Lead
+Obtain Spontaneous Volunteer Team Plastic bag from Logistics Lead
 
 * Spontaneous Volunteer Vest
 * Volunteer sign in sheet
@@ -26,9 +26,9 @@ Obtain Spontaneious Volunteer Team Plastic bag from Logistics Lead
 * Notepaper
 * Red Volunteer T-Cards
 * LAHCFD Citizen Volunteer Sign In Forms
-* 211B Volunteer Sign In form
+* Volunteer Sign In form (211B)
 
-## Immediate Actions
+## Setup
 
 * Obtain a radio from the Communications Team
 * Put on the Spontaneous Volunteer vest
@@ -39,11 +39,12 @@ Obtain Spontaneious Volunteer Team Plastic bag from Logistics Lead
 * Swear in citizens as DSW
 * Send Volunteers to Check In team where they will be Checked In and sent to the Staging team for an assignment.
 
-## Continuing Actions
+## Ongoing Actions
 
 * Anticipate more Citizen Volunteers arriving
 * Make sure you have enough forms
 * Contact Logistics Lead if you need assistance
 
+## Demobilization
 
 

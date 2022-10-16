@@ -33,7 +33,7 @@ This material is stored in the Incident Command Plastic Bin
 * Vest
 * Position Log \(time sheet\)
 * Clipboard
-* ICS Forms 201 \(Incident Briefing\)
+* ICS Forms (ICS-201) \(Incident Briefing\)
 
 This material is in the *Printed Forms* box:
 
@@ -41,7 +41,7 @@ This material is in the *Printed Forms* box:
 * CERT Roster
 * Critical Infrastructure List
 
-## Immediate Actions \(within first hour\)
+## Setup \(within first hour\)
 
 * Open the ARK and retrieve the Incident Commander Plastic Bin, which will define material locations and ARK setup process & sequence.
 
@@ -55,7 +55,7 @@ This material is in the *Printed Forms* box:
 
   * Attempt to contact the Town EOC and advise status of ARK.
 
-## Continuing Actions
+## Ongoing Actions
 
 * With Incident Command staff, review the Incident Status Board and Zone Map that are maintained by the Scribe.
 
@@ -84,6 +84,8 @@ This material is in the *Printed Forms* box:
 * Conduct any briefings for elected officials or their representatives.
 
 * **Refer all inquiries to the Town EOC PIO.**
+
+## Demobilization
 
 * Coordinate with the Town EOC for any demobilization plan.
 

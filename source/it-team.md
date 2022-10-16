@@ -4,7 +4,7 @@
 
 ## Description
 
-The IT team is in charge of data entry and communcation with the EOC.  If the internet is up then communication will be via email;
+The IT team is in charge of data entry and communication with the EOC.  If the internet is up then communication will be via email;
 if not we will use packet radio or "sneaker net" (sending USB drives back and forth)
 
 
@@ -17,7 +17,7 @@ if not we will use packet radio or "sneaker net" (sending USB drives back and fo
   * Summary of Zone Survey (status & % complete) -- *every 2-3 hours*
   * Other queries as requested
 * Provide copier services
-* Relay email to/from LAH and SCC EOC -- *if available.*
+* Relay email to/from LAH and SCC (Santa Clara County) EOC -- *if available.*
 * Technical support for Ark operations -- *on request, as time permits.*
 
 ## Location of Duties
@@ -31,7 +31,7 @@ Work in IT tent, coordinate with Scribe/Planning
 * Table, chairs
 * AC power: extension cords, power strips
 * Windows laptop computers (2)
-* Multifunction printer/copier/scanner
+* Multi-function printer/copier/scanner
 * LAHCFD CERT IT Ops Manual
 * Local Wi-Fi router
 * Wi-Fi bridge to Fire Station internet
@@ -45,9 +45,8 @@ Work in IT tent, coordinate with Scribe/Planning
 * Generate zone survey result reports
 * Generate LAH-104 incident report, discuss with IC, send to town.
 
-* **Do not talk to the press, or other casual or outside inquiry. Refer inquiries to the Town EOC.**
+* **Do not talk to the press, or other casual or outside inquiry. Communication is centralized in the Town EOC.**
+
+## Demobilization
 
 * **During demobilization, replace vest, completed paperwork and supply items in Operations zip lock bag and turn it in to the Demobilization Team.**
-
-
-

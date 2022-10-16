@@ -22,7 +22,7 @@ focal point for tactical response to incident needs and plans.
 
 * Assist in setting up the ARK and the key supporting staff operations roles required:
 Communications Team, Check-In Team, Scribe, Staging Team,
- Logistic Lead, IT Team and Medical TeaLeadm as soon as needed.
+ Logistic Lead, IT Team and Medical Team Lead as soon as needed.
 
 * Set up ARK Organizational Chart; distribute copies of the org chart to
 your leadership team
@@ -31,7 +31,7 @@ your leadership team
 
 * Fill out CERT “Assignment From Operations Lead To Staging Lead Forms”, using the Pre-assigned Zone list. \(Operations Lead will also have this Pre-assigned zone list\).
 
-* Monitor large CERT Zone map in Scribe Area, to make sure all CERT Zones are being checked using available recourses.
+* Monitor large CERT Zone map in Scribe Area, to make sure all CERT Zones are being checked using available resources.
 
 * Maintain security of the ARK operating area.
 
@@ -61,7 +61,7 @@ These forms are in the "Printed Forms" box:
 Obtain an FRS radio from Communications.
 
 
-## Immediate Actions \(within first hour\):
+## Setup \(within first hour\):
 
 * Don the Operations Lead vest & review Operations Lead job description.
 
@@ -73,7 +73,7 @@ Obtain an FRS radio from Communications.
 
 * Work with Staging to properly allocate personnel to current needs.
 
-## Continuing Actions:
+## Ongoing Actions:
 
 * With Incident Commander and the Command staff, review the ARK Incident Map and the Incident Status Sheets that are maintained by the Scribe.
 
@@ -104,6 +104,8 @@ Obtain an FRS radio from Communications.
 * Organize Small animal rescue response if needed.
 
 * **Do not talk to the press, or other casual or outside inquiry. Refer inquiries to the Town EOC.**
+
+## Demobilization
 
 * **During demobilization, replace vest, completed paperwork and supply items in Operations zip lock bag and turn it in to the Demobilization Team.**
 

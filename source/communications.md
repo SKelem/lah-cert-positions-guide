@@ -13,7 +13,7 @@ text, GMRS radio traffic.
 
 * Monitor the CERT cell phone for voice mails and texts
 
-* Log all communications on a ICS-309 Communcations Log form.
+* Log all communications on a Communications Log form (ICS-309).
 
 * Issue GMRS radios to all staff that require it.
 
@@ -37,11 +37,11 @@ This material is stored in the Communications Officer Plastic Bin
 
 * Vest
 * Pens
-* Red-Immedieate & Green Routine boxes
+* Red-Immediate & Green Routine boxes
 * Incident Report forms (20 copies)
-* ICS-213 Message forms (20 copies)
-* ICS-214 Unit Activity Log (2 copies)
-* ICS-309 Communcations Log (10 copies)
+* Message forms (ICS-213) (20 copies)
+* Unit Activity Log (ICS-214) (2 copies)
+* Communications Log form (ICS-309) (10 copies)
 
 Forms can be printed from CERT-IT if you need additional forms.
 
@@ -49,7 +49,7 @@ Obtain from *Printed Forms* box, or ask CERT-IT to print out:
 
 * CERT Roster
 
-## Immediate Actions \(within first hour\):
+## Setup \(within first hour\):
 
 * Put on the Communications team vest and review the Communications team job description.
 
@@ -57,15 +57,15 @@ Obtain from *Printed Forms* box, or ask CERT-IT to print out:
 
 * Report to ARK Incident Commander \(IC\), that position has been operational.
 
-* Use the ICS 214 Unit Activity Log form which describes major actions taken during your shift.
+* Use the Unit Activity Log form (ICS-214) which describes major actions taken during your shift.
 
-* Log messages on ICS 309 communcations log
+* Log messages on Communications Log form (ICS-309).
 
 * Non critical information received via phone, text, GMRS radio log them on the General Message Form 213.
 
 * Critical information received via phone, text, GMRS radio fill out a Incident Report form and send to Operations
 
-## Continuing Actions:
+## Ongoing Actions:
 
 * Continually monitor and test the activated radio, telephone system, and Cell Phone. Keep the Incident Commander informed of system failures.
 
@@ -77,6 +77,8 @@ Obtain from *Printed Forms* box, or ask CERT-IT to print out:
 
 * **When there is a shift change, turn all Communications team materials over to your replacement
 AND provide them with any information they will need to successfully perform their duties.**
+
+## Demobilization
 
 * During demobilization, ensure all copies of messages \(incoming & outgoing\) are turned over
 to the Demobilization team so the documents can be filed in the ARK for documentation purposes and future use by Finance.

@@ -43,7 +43,7 @@ CERT Medical Team zip lock bag, which contains:
 * Green A-frame with Medical sign
 * Medical waste contained & red bags for medical waste
 
-## Immediate Actions
+## Setup
 
 * Check out a radio from the Communications Team
 
@@ -57,7 +57,7 @@ CERT Medical Team zip lock bag, which contains:
 
 * Maintain access area for ambulances – see ARK Command Post map
 
-## Continuing Actions
+## Ongoing Actions
 
 * Create your Triage Team
 
@@ -78,6 +78,8 @@ CERT Medical Team zip lock bag, which contains:
 * Notify Operations Lead if you need assistance
 
 * When there is a shift change, turn all Medical team materials over to your replacement AND provide them with any information they will need to successfully perform their duties.
+
+## Demobilization
 
 * During demobilization, ensure all copies of patient and activity log \(incoming & outgoing\) are turned over to the Demobilization Team so the documents can be filed in the ARK for documentation purposes and future use by Finance.
 

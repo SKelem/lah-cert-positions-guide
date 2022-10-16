@@ -25,7 +25,7 @@ This material is stored in the Check-In team plastic bin:
 * Check-In team vest
 * Check-In team job description
 * Incident Report information sheet
-* ICS 211B Check-In forms
+* Check-In forms (ICS 211B)
 * Pens \(6\)
 * Pencils \(6\)
 * Erasers \(2\)
@@ -51,7 +51,7 @@ Obtain from the *Printed Forms* box:
 * Current CERT roster
 
 
-## Immediate Actions
+## Setup
 
 * Check out a radio from the Communications team.
 
@@ -61,7 +61,7 @@ Obtain from the *Printed Forms* box:
 
 * If needed, assist a Facilities Expert in making a divider or feeder point for the Check-In table.
 
-* Place ICS 211B Check-In forms on clipboards.
+* Place Check-In forms (ICS 211B) on clipboards.
 
 * Ensure all personnel prior to you being ready for check-in have signed in, have wristbands and their T-cards have been placed in the Staging team T-card rack.
 
@@ -71,11 +71,11 @@ Obtain from the *Printed Forms* box:
 
 * **Walk-in reports of Emergencies** – use the CERT Incident Report form to gather as much information as possible. As soon as this is filled out, place the form in the clear file box, notify Operations that a walk-in Incident Report form needs to be picked up.
 
-## Continuing Actions
+## Ongoing Actions
 
-* Once you have set up your area, continue to maintain the ICS 211B Check-In form.
+* Once you have set up your area, continue to maintain the Check-In form (ICS 211B).
 
-* CERTs and Hams will be checking in and out – keep ICS 211B form current.
+* CERTs and Hams will be checking in and out – keep Check-In form current.
 
 * Notify Operations to have the Large LAHCFD banner brought to Check-In and attached to Check-In tent.
 
@@ -85,9 +85,11 @@ Obtain from the *Printed Forms* box:
 
 * When there is a shift change, turn all Check-In team materials over to your replacement AND provide them with any information they will need to successfully perform their duties.
 
+## Demobilization
+
 * During demobilization, ensure all copies of messages \(incoming & outgoing\) are turned over to the Demobilization team so the documents can be filed in the ARK for documentation purposes and future use by Finance.
 
-* Replace your vest and supply items in the CERT Check-In team zip lock bag, place the bag in the Check-In team plastic bin and return the bin to the Demobilization team. **REPLENISH ALL ITEMS \(SUPPLIES, FORMS, ETC.\) FROM THE ARK SUPPLIES TO ENSURE THE CHECK-IN TEAM PLASTIC BIN CAN IMMEDIATELY BE USED FOR ANOTHER INCIDIENT, IF NECESSARY.**
+* Replace your vest and supply items in the CERT Check-In team zip lock bag, place the bag in the Check-In team plastic bin and return the bin to the Demobilization team. **REPLENISH ALL ITEMS \(SUPPLIES, FORMS, ETC.\) FROM THE ARK SUPPLIES TO ENSURE THE CHECK-IN TEAM PLASTIC BIN CAN IMMEDIATELY BE USED FOR ANOTHER INCIDENT, IF NECESSARY.**
 
 ## Questions that may be asked
 
@@ -97,5 +99,5 @@ Q: Is there anything I can do to help?
 
 
 
-You may have citizens \(i.e. non-CERTS\) approach you to volunteer to help. Send them to Volunteer Public Staging where they will be checked in, sworn in as DSW workers and given an assignment when one becomes available.
+You may have citizens \(i.e., non-CERTS\) approach you to volunteer to help. Send them to Volunteer Public Staging where they will be checked in, sworn in as DSW workers and given an assignment when one becomes available.
 

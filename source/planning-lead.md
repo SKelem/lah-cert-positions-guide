@@ -40,7 +40,7 @@ This material is stored in the Incident Command Plastic Bin.  Included in plasti
 * Pens, pencils, note paper, sharpie
 * Clip boards.
 
-## Immediate Actions \(within the first hour\)
+## Setup \(within the first hour\)
 
 * Don the Planning and Intelligence vest.
 
@@ -50,7 +50,7 @@ This material is stored in the Incident Command Plastic Bin.  Included in plasti
 
 * Prepare Incident Action Plan.
 
-## Continuing Actions
+## Ongoing Actions
 
 * Support Incident Commander.
 
@@ -71,6 +71,8 @@ This material is stored in the Incident Command Plastic Bin.  Included in plasti
 * Periodically assess staff needs and adjust as needed
 
 * Refer all requests for information to the Town EOC
+
+## Demobilization
 
 * Develop Demobilization Plan and present it to the IC.
 

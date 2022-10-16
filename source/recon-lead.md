@@ -23,7 +23,7 @@ For this document, "Recon Team" refers to Recon personnel working at the ARK.  I
 * Get tasks and priorities from Operations
   * Use pre-defined Critical Infrastructure Routes and Zone Groups to simplify "normal" tasks, allowing Operations to focus on unusual / incident specific tasks
 * Track each Recon Unit's current assignment
-* Track tasks through their lifecycle: unassigned; assigned \(to recon unit\); complete
+* Track tasks through their life cycle: unassigned; assigned \(to recon unit\); complete
 * Report completed tasks to Operations
 * Receive incident reports from Recon Units
   * Assign incident numbers
@@ -57,7 +57,7 @@ Recon area of ARK
   * Antenna
   * Antenna cable
 
-## Immediate Actions \(within first hour\):
+## Setup \(within first hour\):
 
 * Establish the Recon Team \(get Operations to assign personnel from Staging\)
 * Set up the Recon ham radio station
@@ -76,7 +76,7 @@ Recon area of ARK
   * The need to monitor and respond to phone calls/text messages
 * Periodically report progress to Operations
 
-## Continuing Actions:
+## Ongoing Actions:
 
 * Periodically report task status to Operations
 
@@ -93,6 +93,8 @@ Recon area of ARK
 * Be prepared to brief relief at end of shift
 
 * **Do not talk to the press, or other casual or outside inquiry. Refer inquiries to the Town EOC.**
+
+## Demobilization
 
 * **During demobilization, replace vest, completed paperwork and supply items in Operations zip lock bag and turn it in to the Demobilization Team.**
 

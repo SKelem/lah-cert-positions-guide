@@ -18,7 +18,7 @@ CERT work area with-in yellow barricade tape.
 
 ## Continuing Actions:
 
-* **Do not talk to the press, or other casual or outside inquiry. Refer inquiries to the Town EOC.**
+* **Do not talk to the press, or other casual or outside inquiry. All communication is centralized at the Town EOC.**
 
 * **During demobilization, replace vest, completed paperwork and supply items in Operations zip lock bag and turn it in to the Demobilization Team.**
 
